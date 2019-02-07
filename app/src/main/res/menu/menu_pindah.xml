@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+<item
+    android:id="@+id/fragmenthor"
+    android:title="horizontal"
+    android:icon="@android:drawable/ic_media_next"
+    app:showAsAction="withText"/>
+    <item
+        android:id="@+id/fragmantver"
+        android:title="ver1"
+        android:icon="@android:drawable/ic_media_next"
+        app:showAsAction="withText"/>
+    <item
+        android:id="@+id/fragmenver2"
+        android:title="ver2"
+        android:icon="@android:drawable/ic_media_next"
+        app:showAsAction="withText"/>
+
+</menu>
